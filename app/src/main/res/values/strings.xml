@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sample Tour Guide</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_1">Title</string>
+    <string name="message_1">Message</string>
+    <string name="continue_1">Continue</string>
+    <string name="skip_1">Skip</string>
+
+    <string name="title_2">Title 2</string>
+    <string name="message_2">Message 2</string>
+    <string name="continue_2">Continue 2</string>
+    <string name="skip_2">Skip 2</string>
+
+    <string name="title_3">Title 3</string>
+    <string name="message_3">Message 3</string>
+    <string name="continue_3">Continue 3</string>
+    <string name="skip_3">Skip 3</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="subtitle_unlink_account">Unlink</string>
+    <string name="title_unlink_account">Title</string>
+</resources>
